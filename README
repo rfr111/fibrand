@@ -1,1 +1,3 @@
-Will upload the header file in a week.
+Usage: add fibrand.h to your project or use fibrand.py.
+Note: In fibrand.h, I didn't implement the function recursively, to make it faster with many operations.
+Note 2: fibrand.py only adds the function.You'll have to manually add a call for it.
