@@ -1,5 +1,5 @@
-#ifndef FIBRAND
-#define FIBRAND
+#ifndef FIBRAND_H
+#define FIBRAND_H
 #include <math.h>
 int fibrand(int nseed1, int nseed2, int ntimes) {
     int nfib = 0;
